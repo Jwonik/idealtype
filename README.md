@@ -6,7 +6,7 @@ Flutter를 활용한 앱 프로젝트입니다.
 + 개발 기간: 2022.12.28 ~ 2023.01.10
 + 참여 인원: 4명
 + 사용 기술
-  + Dart, Fultter
+  + Dart, Flutter
   + Firebase, Firestore
   + Android Studio
 + 담당 구현 파트
@@ -20,3 +20,4 @@ Flutter를 활용한 앱 프로젝트입니다.
 # 후기
 요즘 뜨고 있은 Flutter를 경험해 볼 수 있어 좋았다. </br>
 다만 기존에 사용하던 자바와 달리 자료가 부족하여 어려움이 있었다.</br>
+
